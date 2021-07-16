@@ -1,0 +1,57 @@
+/* title section css */
+.title-sub{
+  padding: 3% 3%;
+  background-color: #7DEDFF;
+  text-align: center;
+}
+.titlemain{
+  padding:2% 2%;
+}
+
+p{
+  font-family: 'Cinzel',cursive;
+  font-size: 1.3rem;
+}
+.heading{
+  font-size: 2.5rem;
+}
+li{
+  padding:0 3%;
+}
+ul{
+  position:relative;
+  left:65%;
+
+}
+.navbar-brand{
+  padding-left: 2%;
+}
+.info{
+  padding: 5% 0;
+}
+/* title section css */
+/* section2 */
+h2{
+  font-family: 'Cinzel';
+}
+.maintree{
+  width:300px;
+  height:300px;
+  border-radius:20%;
+}
+/* section2 */
+.section2content{
+  font-family: 'EB Garamond';
+  font-size: 2rem;
+}
+/* section2 */
+/* section3 */
+.contact{
+  padding:2% 2%;
+}
+.contactsub{
+  padding: 2% 0;
+  background-color:  #7DEDFF;
+  text-align: center;
+  font-family: 'Cinzel';
+}
