@@ -1,6 +1,7 @@
 /* title section css */
 .container-fluid{
   padding: 3% 3%;
+  width:100%;
   background-color: #7DEDFF;
   text-align: center;
 }
@@ -29,6 +30,11 @@ ul{
 .info{
   padding: 5% 0;
 }
+@media (max-width:900px){
+  .gif{
+    height:600px;
+  }
+}
 /* title section css */
 /* section2 */
 h2{
@@ -39,6 +45,7 @@ h2{
   height:300px;
   border-radius:20%;
 }
+
 /* section2 */
 .section2content{
   font-family: 'EB Garamond';
