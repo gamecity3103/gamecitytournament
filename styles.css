@@ -30,9 +30,13 @@ ul{
 .info{
   padding: 5% 0;
 }
-@media (max-width:900px){
+@media (max-width:500px){
   .gif{
     height:600px;
+    width:100%;
+  }
+  .container-fluid{
+    background-color:green;
   }
 }
 /* title section css */
